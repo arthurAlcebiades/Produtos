@@ -5,7 +5,7 @@
 
 Essa é uma aplicação ASP.NET MVC que foi feita em um projeto no bootcamp GFT Start #4 .NET.
 
-Essa aplicação console é uma pequena página de cadastro de produtos usando como base funções CRUD, onde você consegue cadastrar, editar, apagar e também informar a quantidade de tal produto em estoque.
+Essa aplicação console é uma pequena página de cadastro de produtos usando como base funções CRUD, onde você consegue cadastrar, editar, apagar, informar a quantidade do produto em estoque. Além disso, os produtos podem ser de diferentes categorias que podem ser criadas e cada produto é identificado por um Id diferente.
 
 Pode ser visualizada também no Swagger.
 
