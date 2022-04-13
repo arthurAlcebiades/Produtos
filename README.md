@@ -21,3 +21,10 @@ Todas essas informações são armazenadas em um banco de dados SQL Server.
 ## Implantação em produção
 - Back end: Visual Studio 2019
 - Banco de dados: SQL Server
+
+
+# Autor
+
+Arthur Henrique Valentino Alcebíades
+
+https://www.linkedin.com/in/arthur-alceb%C3%ADades-7b67a6211
