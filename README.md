@@ -27,7 +27,7 @@ Todas essas informações são armazenadas em um banco de dados SQL Server.
 # Passo a passo
 Usando o Visual Studio 2019, depois de inicializa-lo, criei um novo projeto do tipo "Aplicativo Web do ASP.NET Core (Model-View-Controller)" usando a versão .NET 5.0, o nome e o local do projeto é de escolha própria.
 
-## Projeto MVC:
+### Projeto MVC:
 Depois de criado, o Visual Studio cria uma página localhost padrão e é ela que usei como base para trabalhar. É de muita importância ter alguns pacotes instalados no seu projeto, sendo eles o do Entity Framework utilizando o banco de dados SQL Server e as ferramentas do Entity Framework para conseguir utilizar o migrations.
 
 ```Gerenciador de pacotes NuGet
