@@ -30,6 +30,7 @@ Usando o Visual Studio 2019, depois de inicializa-lo, criei um novo projeto do t
 ### Projeto MVC:
 Depois de criado, o Visual Studio cria uma página localhost padrão e é ela que usei como base para trabalhar. É de muita importância ter alguns pacotes instalados no seu projeto, sendo eles o do Entity Framework utilizando o banco de dados SQL Server e as ferramentas do Entity Framework para conseguir utilizar o migrations.
 
+Gerenciador de pacotes NuGet:
 ```Gerenciador de pacotes NuGet
 Install-Package Microsoft.EntityFrameworkCore.SqlServer
 Install-Package Microsoft.EntityFrameworkCore.Tools
@@ -37,6 +38,7 @@ Install-Package Microsoft.EntityFrameworkCore.Tools
 
 Depois de instalado o pacotes e ter configurado o Entity Framework, executei alguns comandos para criar o banco de dados e suas tabelas.
 
+Gerenciador de pacotes NuGet:
 ```Gerenciador de pacotes NuGet
 Add-Migration InitialCreate
 Update-Database
