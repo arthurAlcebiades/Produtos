@@ -27,6 +27,6 @@ Todas essas informações são armazenadas em um banco de dados SQL Server.
 
 # Autor
 
-Arthur Henrique Valentino Alcebíades
+Arthur Alcebíades
 
 https://www.linkedin.com/in/arthur-alceb%C3%ADades-7b67a6211
